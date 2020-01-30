@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="1" skipped="0" failures="0" errors="0" time="0.013883" timestamp="2019-09-02T21:08:30-03:00" hostname="DESKTOP-741K0H9">
+<properties>
+<property name="seed" value="59105"/>
+</properties>
+<testcase classname="spec.old_saque_spec" name="ContaCorrente Saque quando o valor é positivo entao atualiza saldo" file="./spec/old_saque_spec.rb" time="0.003562"></testcase>
+</testsuite>
